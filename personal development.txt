@@ -1,0 +1,68 @@
+<!--Internal Assessment #1 Tues. 11am (UE1)-->
+<!--Gabrielle Dawkins (2405551)-->
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="style.css">
+    <title>Portfolio - Personal Development</title>
+</head>
+<body>
+  <header>
+    <h1>Personal Development Page</h1><!--Title-->
+    <nav>
+      <ul class="nav-bar">
+          <li><a href="index.html">Home</a></li>
+          <li><a href="professional.html">Professional</a></li>
+          <li><a href="personality.html">Personality</a></li>
+          <li><a href="personal development.html">Personal Development</a></li>
+          <li><a href="storyboard.html">Storyboard</a></li>
+          <li><a href="reference.html">References</a></li>
+      </ul>
+    </nav>
+
+    <section>
+      <h1>Summary and Reflection on *Twelve Pillars*</h1><!--Summary and Reflection-->
+      <h2>Summary</h2>
+      <ul>
+          <li><strong>Chapter 4: The Value of Relationships</strong> - Mr. Davis emphasizes the importance of nurturing relationships, highlighting that success is incomplete without meaningful connections.</li>
+          <li><strong>Chapter 5: Achieving True Success</strong> - True success involves personal fulfillment, contribution to others, and a balanced life, not just material wealth.</li>
+          <li><strong>Chapter 6: The Importance of Continuous Learning</strong> - Lifelong learning through reading, attending seminars, and seeking new experiences is essential for growth.</li>
+          <li><strong>Chapter 7: Discipline and Commitment</strong> - Discipline and consistent effort are key to achieving long-term success.</li>
+      </ul>
+  
+      <h2>Application to My Life</h2><!--How it Applies to My Life-->
+      <p>These chapters have inspired me to make meaningful changes in my life:</p>
+      <ul>
+          <li><strong>Relationships:</strong> I plan to be more intentional in spending quality time with loved ones and expressing gratitude.</li>
+          <li><strong>Success Redefined:</strong> I will set holistic goals that balance career ambitions with self-care and meaningful connections.</li>
+          <li><strong>Continuous Learning:</strong> I am committing to 30 minutes of reading or educational content daily and attending workshops to grow personally and professionally.</li>
+          <li><strong>Discipline:</strong> To overcome procrastination, I will create a structured daily schedule, set clear priorities, and hold myself accountable.</li>
+      </ul>
+      <p>By integrating these principles, I am confident that I can lead a more balanced, fulfilling, and purpose-driven life.</p>
+  </section>
+    
+  <section id="degree-skills">
+    <h2>Degree & Skills</h2><!--Degree & Skills-->
+    <p>I am currently pursuing a <strong>Bachelor's in Computer Science</strong>. 
+      My journey through this degree has equipped me with valuable skills, 
+      especially in:</p>
+    <ul>
+      <li><strong>Coding:</strong> Proficient in multiple programming languages 
+        and frameworks, capable of building efficient software solutions.</li>
+      <li><strong>Problem-Solving:</strong> Adept at analyzing complex challenges 
+        and devising logical, innovative solutions.</li>
+    </ul>
+  </section>
+
+  <footer id="contact"><!--Footer-->
+    <p>(876) 990-2213 | 
+      <a href="mailto:gabrielleadawkins@students.utech.edu.jm">
+        gabrielleadawkins@students.utech.edu.jm
+      </a> 
+      | &copy; 2025 Gabrielle Dawkins. All Rights Reserved.
+    </p>
+  </footer>
+  </body>
+  </html>

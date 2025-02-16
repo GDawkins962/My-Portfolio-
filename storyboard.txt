@@ -1,0 +1,83 @@
+<!--Internal Assessment #1 Tues. 11am (UE1)-->
+<!--Gabrielle Dawkins (2405551)-->
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="style.css">
+    <title>Portfolio - Storyboard</title>
+</head>
+<body>
+  <header>
+    <h1>Storyboard Page</h1><!--Title-->
+    <nav>
+        <ul class="nav-bar">
+            <li><a href="index.html">Home</a></li>
+            <li><a href="professional">Professional</a></li>
+            <li><a href="personality.html">Personality</a></li>
+            <li><a href="personal development.html">Personal Development</a></li>
+            <li><a href="storyboard.html">Storyboard</a></li>
+            <li><a href="reference.html">References</a></li>
+        </ul>
+    </nav>
+  </header>
+
+  <section id="wireframe-section">
+    <h2 class="section-title">Wireframe Image</h2><!--Wireframe-->
+    <img src="../Assets/Wireframe.jpg" alt="Wireframe Image">
+  </section>  
+
+  <section id="webpage-intent">
+    <h2>Website Pages and Their Purpose</h2><!--Website and Purpose-->
+    <ul>
+      <li>
+        <h3>Storyboard Page</h3>
+        <p><strong>Intent:</strong> Provide a visual layout plan and design for the entire website.</p>
+        <p><strong>Purpose:</strong> Showcase the conceptual wireframes, layout design, color themes, and features planned for each webpage.</p>
+      </li>
+      <li>
+        <h3>Index/Home Page</h3>
+        <p><strong>Intent:</strong> Serve as the introductory page for the website.</p>
+        <p><strong>Purpose:</strong> Welcome visitors with an overview of the site, introduce yourself, and provide easy navigation to other sections through a navigation bar.</p>
+      </li>
+      <li>
+        <h3>Personality Page</h3>
+        <p><strong>Intent:</strong> Highlight personal traits and interests.</p>
+        <p><strong>Purpose:</strong> Showcase your strongest personality traits, hobbies, and how they impact your academic life. Include a favorite quote or motto, information about your hero, and results from a personality assessment with a reflection.</p>
+      </li>
+      <li>
+        <h3>Personal Development Page</h3>
+        <p><strong>Intent:</strong> Share insights and lessons learned for personal growth.</p>
+        <p><strong>Purpose:</strong> Provide reflections on <em>Twelve Pillars</em> chapters and explain how they can be applied to your life. Highlight your educational background and the top two skills you've developed so far.</p>
+      </li>
+      <li>
+        <h3>Professional Page</h3>
+        <p><strong>Intent:</strong> Present your professional aspirations and qualifications.</p>
+        <p><strong>Purpose:</strong> Include a modern-designed resume and CV, along with your vision and mission statements. Detail the career path, job requirements, and qualifications for your future desired role.</p>
+      </li>
+      <li>
+        <h3>Reference Page</h3>
+        <p><strong>Intent:</strong> Provide bibliographic sources of information used for the website.</p>
+        <p><strong>Purpose:</strong> List books, websites, and other resources in APA format that contributed to the content of the website.</p>
+      </li>
+    </ul>
+  </section>
+  
+  <section id="List of Features">
+    <h2> List of Features</h2><!--List of Features-->
+    <p> - A Video </p>
+    <p> - An Audio</p>
+
+  </section>
+
+  <footer id="contact"><!--Footer-->
+    <p>(876) 990-2213 | 
+      <a href="mailto:gabrielleadawkins@students.utech.edu.jm">
+        gabrielleadawkins@students.utech.edu.jm
+      </a> 
+      | &copy; 2025 Gabrielle Dawkins. All Rights Reserved.
+    </p>
+  </footer>
+  </body>
+  </html>

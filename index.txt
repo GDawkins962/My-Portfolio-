@@ -1,0 +1,74 @@
+<!--Internal Assessment #1 Tues. 11am (UE1)-->
+<!--Gabrielle Dawkins (2405551)-->
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="style.css">
+    <title>Portfolio - Home</title>
+</head>
+<body>
+  <header>
+    <h1>Welcome to My Creative Portfolio!</h1><!--Title-->
+    <nav>
+        <ul class="nav-bar">
+            <li><a href="index.html">Home</a></li>
+            <li><a href="professional.html">Professional</a></li>
+            <li><a href="personality.html">Personality</a></li>
+            <li><a href="personal development.html">Personal Development</a></li>
+            <li><a href="storyboard.html">Storyboard</a></li>
+            <li><a href="reference.html">References</a></li>
+            <li><a href="#about-me">About Me</a></li><!--Internal Link/Bookmark-->
+        </ul>
+    </nav>
+  </header>
+
+  <section id="home" class="About Me"><!--Image of Me-->
+    <div class="profile-container">
+      <a href="mailto:gabrielleadawkins@student.utech.edu.jm?subject=2405551">
+        <img src="../Assets/ME.JPG" alt="Picture of Me">
+     </a>
+
+      <h2>Listen to My Audio</h2><!--My Audio-->
+    <audio controls>
+      <source src="../Assets/My_Audio.mp3" type="audio/mpeg">
+    </audio>
+
+    </div>
+
+    <div class="text">
+      <h2 id="about-me" class="section-title">About Me</h2><!--About Me-->
+      <p>Hello! I'm Gabrielle Dawkins, and I'm excited to welcome you to my personal website.</p>
+      <p>This showcases my resume, personality, personal development, and references.
+         Whether you are here to learn more about me, explore my portfolio, or get in touch, you'll 
+        find everything you need. Feel free to browse around and don't hesitate to reach out, I'd love to connect with you!</p>
+        <p> I love to take live photos/boomerangs and edit them I also enjoy making edits for like youtube videos. I put a 
+            sample below just a simple edit of my everyday life.</p>
+      <h2>Watch My Video</h2><!--My Video-->
+    <video controls width="500">
+      <source src="../Assets/My_Video.mp4" type="video/mp4">
+    </video>
+    <div class="back-to-top">
+      <a href="#top">
+        <button>Back to Top</button>
+      </a>
+    </div>
+  </section>
+
+<section> <!--External Link-->
+  <p>To learn more about web development and also where I got some of my inspo from.</p> 
+  <p>Check Out!: <a href="https://www.w3schools.com/howto/howto_make_a_website.asp"
+    target="_blank">W3 Schools</a></p>
+</section>
+
+<footer id="contact"><!--Footer-->
+  <p>(876) 990-2213 | 
+    <a href="mailto:gabrielleadawkins@students.utech.edu.jm">
+      gabrielleadawkins@students.utech.edu.jm
+    </a> 
+    | &copy; 2025 Gabrielle Dawkins. All Rights Reserved.
+  </p>
+</footer>
+</body>
+</html>

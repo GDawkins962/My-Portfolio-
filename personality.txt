@@ -1,0 +1,113 @@
+<!--Internal Assessment #1 Tues. 11am (UE1)-->
+<!--Gabrielle Dawkins (2405551)-->
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="style.css">
+    <title>Portfolio - Personality</title>
+</head>
+<body>
+  <header>
+    <h1>Personality Page</h1><!--Title-->
+    <nav>
+      <ul class="nav-bar">
+          <li><a href="index.html">Home</a></li>
+          <li><a href="professional.html">Professional</a></li>
+          <li><a href="personality.html">Personality</a></li>
+          <li><a href="personal development.html">Personal Development</a></li>
+          <li><a href="storyboard.html">Storyboard</a></li>
+          <li><a href="reference.html">References</a></li>
+      </ul>
+    </nav>
+  </header>
+
+  <section id="Personality" class="personality- traits">
+    <h2>Strongest Personality Trait</h2><!--Personality Trait-->
+    <p>
+      My strongest personality traits are creativity and resilience.
+      Creativity enables me to think outside the box, express myself 
+      through drawing and design, and find innovative solutions to problems. 
+      Resilience keeps me focused and determined, even when faced with academic
+      challenges. 
+    </p>
+  </section>
+
+  <section id="academic-impact">
+    <h2> Impact on Academic Life </h2><!--Impact on Academic Life-->
+    <p>
+      My creativity and resilience have positively impacted my academic life
+      by enabling me to approach challenges with innovative solutions 
+      and determination. Creative thinking allows me to find engaging
+      ways to complete assignments, while my resilience helps me stay 
+      focused and overcome setbacks. These traits contribute to my ability to
+      produce unique work, meet dealines, and maintain a positive attitude 
+      even during demanding academic periods.
+    </p>
+  </section>
+
+  <section id="favourite quote">
+    <h2> Favourite Quote or Motto </h2><!--Favourite Quote-->
+      <p>
+        "Don't be afraid to fail. It's just another step on the way to greatness."
+
+      </p>
+      - Nicki Minaj
+  </section>
+
+  <section id="hero-explanation">
+    <h2> Explanation about Hero</h2><!--Hero Explanation-->
+    <p>
+      My hero is Nicki Minaj, a trailblazing artist known for her resilience,
+      confidence, and groundbreaking contributions to music and 
+      pop culture. She inspires me with her fearless pursuit of success 
+      despite facing challenges and criticism. Her ability to overcome 
+      obstacles and maintain authenticity motivates me to stay 
+      determined and confident in my pursuits. Nicki's journey serves as a 
+      reminder that self-belief and hard work can turn dreams into reality.
+    </p>
+  </section>
+  
+  <section id="personality-test-results">
+  <h2>Personality Test Results</h2><!--Personality Test-->
+  <img src="../Assets/Personality Test Results.jpg " alt="Personality Test Results" />
+  </section>
+
+  <section id="general-validity">
+    <h2>General Validity</h2><!--General Valditiy-->
+    <p>
+        Personality tests often provide a structured framework to understand 
+        preferences, behaviors, and motivations. However, their validity can 
+        be limited by subjective interpretations, cultural biases, and the 
+        lack of standardized scoring methods. The broad categories such as 
+        Materialistic, Thinking, and Interpersonal suggest an attempt to 
+        capture a wide range of personality traits, but the results might 
+        not always comprehensively or accurately represent a person.
+    </p>
+  </section>
+
+  <section id="individual-validity">
+    <h2>Individual Validity</h2><!--Individual Validity-->
+    <p>
+        The results of the Personality Test don't fully match how 
+        I see myself. For example, it suggests that I'm not very materialistic, 
+        but I actually consider myself to be quite materialistic. The test also 
+        implies that I think a lot, but honestly, my mind tends to be lazy most 
+        of the time. Additionally, it portrays me as easygoing, which isn't 
+        accurate I wouldn't describe myself that way. These differences make me 
+        question how well the test captures my true personality, as I find 
+        personality traits to be more complex than simple percentages.
+    </p>
+  </section>
+
+  <footer id="contact"><!--Footer-->
+    <p>(876) 990-2213 | 
+      <a href="mailto:gabrielleadawkins@students.utech.edu.jm">
+        gabrielleadawkins@students.utech.edu.jm
+      </a> 
+      | &copy; 2025 Gabrielle Dawkins. All Rights Reserved.
+    </p>
+  </footer>
+  </body>
+</html>
